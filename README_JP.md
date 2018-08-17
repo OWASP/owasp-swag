@@ -4,16 +4,19 @@ OWASPプロジェクトやチャプターのスワッグ（ステッカーなど
 
 ## ディレクトリ構造例
 
-* `chapters`
-  * `london`
-  * `new-york`
+ * `chapters`
+  * `germany`
+  * `uk`
+    * `london`
+  * `usa`
+    * `new-york`
   * etc.
 * `owasp`
 * `projects`
   * `juice-shop`
   * `zap`
   * etc.
-  
+ 
 ## ルール
 
 * 各プロジェクトやチャプターのアートワークはひとつもしくは複数のフォルダに適宜分けて保存していただいて構いません。
