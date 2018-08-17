@@ -5,8 +5,11 @@ Swag for the OWASP projects and chapters
 ## Proposed Structure
 
 * `chapters`
-  * `london`
-  * `new-york`
+  * `germany`
+  * `uk`
+    * `london`
+  * `usa`  
+    * `new-york`
   * etc.
 * `owasp`
 * `projects`
