@@ -1,18 +1,25 @@
 # owasp-swag
+
 Swag for the OWASP projects and chapters
 
-The proposed structure for this project is:
+## Proposed Structure
 
-* chapters
-  * London
-  * New York
-  * etc
-* owasp
-* projects
-  * ZAP
-  * Juice Shop
-  * etc
+* `chapters`
+  * `germany`
+  * `uk`
+    * `london`
+  * `usa`  
+    * `new-york`
+  * etc.
+* `owasp`
+* `projects`
+  * `juice-shop`
+  * `zap`
+  * etc.
   
-The individual projects and chapters can have all of their artwork in one folder or multiple ones as required. The 'owasp' folder is reserved for official OWASP artwork.
+## Rules
 
-Changes should only be accepted by PR.
+* The individual projects and chapters can have all of their artwork in one folder or multiple ones as required
+* The `owasp` top level folder is reserved for official OWASP artwork
+* Changes and additions are only accepted via Pull Request
+* Only original artwork with clear copyright ownership is allowed
