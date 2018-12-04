@@ -17,4 +17,4 @@ Sell all variants of the OWASP Juice Shop logo as single stickers to decorate yo
 
 ---
 
-All OWASP Juice Shop logos and images are Copyright © by Bjoern Kimminich 2014-2018.
+All OWASP Juice Shop logos and images are Copyright © by Bjoern Kimminich 2014-2019 and may be used under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
