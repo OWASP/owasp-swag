@@ -1,0 +1,1 @@
+:information_source: Please make sure you have read and are [adhering to the rules](https://github.com/OWASP/owasp-swag#rules) ([:uk:](https://github.com/OWASP/owasp-swag#rules)/[:jp:](https://github.com/OWASP/owasp-swag/blob/master/README_JP.md#%E3%83%AB%E3%83%BC%E3%83%AB)) for additions to this repository!
