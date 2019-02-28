@@ -1,0 +1,3 @@
+[submodule "projects/security-pins"]
+	path = projects/security-pins
+	url = https://github.com/wurstbrot/security-pins
