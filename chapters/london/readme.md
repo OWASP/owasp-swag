@@ -1,1 +1,1 @@
-Londin Chapter logo and postcard
+London Chapter logo and postcard
