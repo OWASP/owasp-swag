@@ -1,4 +1,4 @@
-# OWASP ModSecurity Core Rule Set
+# OWASP CRS
 
 This is the logo of the CRS project created by Hugo Costa (hugo.costa@owasp.org).
 
