@@ -14,7 +14,7 @@ Swag for the OWASP projects and chapters
 * `owasp`
 * `projects`
   * `juice-shop`
-  * `zap`
+  * `wstg`
   * etc.
   
 ## Rules
